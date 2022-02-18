@@ -1,4 +1,4 @@
-# - 👋 Hi, I’m Rahul
+#  👋 Hi, I’m Rahul
 
 
 - 🔭 I’m currently seeking job roles as a Python dev.
