@@ -1,7 +1,7 @@
 #  👋 Hi, I’m Rahul
 
 
-- 🔭 I’m currently seeking job as a Python dev.
+- 🔭 I’m currently seeking roles as a Python dev.
 
 - 👀 I’m interested in learning more about python
 - 🔭 I’m currently working on a Project to generate movie recommendation.
